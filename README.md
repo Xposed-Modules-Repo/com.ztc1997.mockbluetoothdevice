@@ -4,3 +4,6 @@
 关闭模块状态下，使用 nRF Connect 扫描得到要模拟的广播信号，将结果填入对应选项。
 * `Raw data` 去掉开头的 `0x` 填入`广播数据`
 * 支持 Android 8.0 或更高版本
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ztc1997.mockbluetoothdevice/master/img/howto.jpg"/>
+</p>
