@@ -1,2 +1,2 @@
-Mock a BLE peripheral advertisement in bluetooth scan results. 
-在蓝牙扫描结果中模拟一个 BLE 外围设备广播。仅用于蓝牙设备的开发与调试，请勿用于签到打卡等违法违纪用途。
+Mock a BLE peripheral advertisement in bluetooth scan results.   
+在蓝牙扫描结果中模拟一个 BLE 外围设备通告。仅用于蓝牙设备的开发与调试，请勿用于签到打卡等违法违纪用途。
