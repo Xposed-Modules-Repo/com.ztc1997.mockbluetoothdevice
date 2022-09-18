@@ -7,6 +7,11 @@
 * `Raw data` 去掉开头的 `0x` 填入`通告数据`
 * 支持 Android 8.0 或更高版本
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ztc1997.mockbluetoothdevice/master/img/howto.jpg"/>
-</p>
+<img align="center" alt="howto" src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ztc1997mockbluetoothdevice/master/img/howto.jpg"/>
+
+## 捐赠支持
+点个 **Star** 也是对我的支持。
+如果这个项目对你帮助很大，可以考虑给我送杯奶茶。
+
+<img align="center" alt="donate_alipay" src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ztc1997mockbluetoothdevice/master/img/donate_alipay.jpg"/>
+<img align="center" alt="donate_wechat" src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.ztc1997mockbluetoothdevice/master/img/donate_wechat.jpg"/>
