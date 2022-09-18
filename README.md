@@ -13,5 +13,5 @@
 点个 **Star** 也是对我的支持。
 如果这个项目对你帮助很大，可以考虑给我送杯奶茶。
 
-<img align="center" alt="donate_alipay" src="https://github.com/Xposed-Modules-Repo/com.ztc1997.mockbluetoothdevice/raw/main/img/donate_alipay.jpg"/>
-<img align="center" alt="donate_wechat" src="https://github.com/Xposed-Modules-Repo/com.ztc1997.mockbluetoothdevice/raw/main/img/img/donate_wechat.jpg"/>
+<img align="center" alt="donate_alipay" width = "250" src="https://github.com/Xposed-Modules-Repo/com.ztc1997.mockbluetoothdevice/raw/main/img/donate_alipay.jpg"/>
+<img align="center" alt="donate_wechat" width = "250" src="https://github.com/Xposed-Modules-Repo/com.ztc1997.mockbluetoothdevice/raw/main/img/donate_wechat.jpg"/>
